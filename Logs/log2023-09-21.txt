@@ -1,0 +1,39 @@
+2023-09-21 14:54:12,246 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: my_account_xpath
+2023-09-21 14:54:12,471 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: do_Login_xpath
+2023-09-21 14:54:12,545 - BasePage.py:[49] - [INFO] - >Typing on Input: log_email_xpath,wwefwfewfw@fved.com
+2023-09-21 14:54:12,590 - BasePage.py:[49] - [INFO] - >Typing on Input: log_password_xpath,dwddcacawfef
+2023-09-21 14:54:12,643 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: log_login_xpath
+2023-09-21 14:54:15,657 - test_login.py:[47] - [INFO] - Expected:Successful Login,but it Stays in Login Page
+2023-09-21 14:54:23,888 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: my_account_xpath
+2023-09-21 14:54:24,103 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: do_Login_xpath
+2023-09-21 14:54:24,160 - BasePage.py:[49] - [INFO] - >Typing on Input: log_email_xpath,miao@gmail.com
+2023-09-21 14:54:24,204 - BasePage.py:[49] - [INFO] - >Typing on Input: log_password_xpath,miao@gmail.com
+2023-09-21 14:54:24,251 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: log_login_xpath
+2023-09-21 14:54:27,260 - test_login.py:[44] - [INFO] - Expected: Successful Login
+2023-09-21 16:27:47,804 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: my_account_xpath
+2023-09-21 16:27:48,013 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: do_Login_xpath
+2023-09-21 16:27:48,081 - BasePage.py:[49] - [INFO] - >Typing on Input: log_email_xpath,wwefwfewfw@fved.com
+2023-09-21 16:27:48,128 - BasePage.py:[49] - [INFO] - >Typing on Input: log_password_xpath,dwddcacawfef
+2023-09-21 16:27:48,182 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: log_login_xpath
+2023-09-21 16:27:51,189 - test_login.py:[47] - [INFO] - Expected:Successful Login,but it Stays in Login Page
+2023-09-21 16:27:51,189 - test_login.py:[47] - [INFO] - Expected:Successful Login,but it Stays in Login Page
+2023-09-21 16:27:51,189 - test_login.py:[47] - [INFO] - Expected:Successful Login,but it Stays in Login Page
+2023-09-21 16:27:51,189 - test_login.py:[47] - [INFO] - Expected:Successful Login,but it Stays in Login Page
+2023-09-21 16:27:59,391 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: my_account_xpath
+2023-09-21 16:27:59,601 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: do_Login_xpath
+2023-09-21 16:27:59,661 - BasePage.py:[49] - [INFO] - >Typing on Input: log_email_xpath,miao@gmail.com
+2023-09-21 16:27:59,707 - BasePage.py:[49] - [INFO] - >Typing on Input: log_password_xpath,miao@gmail.com
+2023-09-21 16:27:59,741 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: log_login_xpath
+2023-09-21 16:28:02,745 - test_login.py:[44] - [INFO] - Expected: Successful Login
+2023-09-21 16:28:02,745 - test_login.py:[44] - [INFO] - Expected: Successful Login
+2023-09-21 16:28:02,745 - test_login.py:[44] - [INFO] - Expected: Successful Login
+2023-09-21 16:28:02,745 - test_login.py:[44] - [INFO] - Expected: Successful Login
+2023-09-21 16:28:10,917 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: my_account_xpath
+2023-09-21 16:28:11,115 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: do_Login_xpath
+2023-09-21 16:28:11,160 - BasePage.py:[49] - [INFO] - >Typing on Input: log_email_xpath,
+2023-09-21 16:28:11,189 - BasePage.py:[49] - [INFO] - >Typing on Input: log_password_xpath,
+2023-09-21 16:28:11,242 - BasePage.py:[30] - [INFO] - Clicked on the element with XPath: log_login_xpath
+2023-09-21 16:28:14,248 - test_login.py:[74] - [INFO] - Expected: Unsuccessful Login
+2023-09-21 16:28:14,248 - test_login.py:[74] - [INFO] - Expected: Unsuccessful Login
+2023-09-21 16:28:14,248 - test_login.py:[74] - [INFO] - Expected: Unsuccessful Login
+2023-09-21 16:28:14,248 - test_login.py:[74] - [INFO] - Expected: Unsuccessful Login
