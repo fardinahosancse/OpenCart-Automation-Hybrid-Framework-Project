@@ -1,4 +1,0 @@
-test_Login_Using_valid_data_Started------
--------Navigating To Login Page---------
--------Filling Login ---------
-My Account:  My Account

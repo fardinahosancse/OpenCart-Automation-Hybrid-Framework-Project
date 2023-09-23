@@ -1,8 +1,0 @@
-[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: my_account_xpath
-[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: do_Register_xpath
-[32mINFO    [0m Pages.BasePage:BasePage.py:49 >Typing on Input: reg_first_name_xpath,Fardin
-[32mINFO    [0m Pages.BasePage:BasePage.py:49 >Typing on Input: reg_last_name_xpath,Ahosan
-[32mINFO    [0m Pages.BasePage:BasePage.py:49 >Typing on Input: reg_email_xpath,fardinahosan@gmail.com
-[32mINFO    [0m Pages.BasePage:BasePage.py:49 >Typing on Input: reg_password_xpath,uyeguyegcuecvwcegv
-[32mINFO    [0m Pages.BasePage:BasePage.py:77 >Clicking on a Element: reg_read_agree_xpath
-[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: reg_continue_xpath

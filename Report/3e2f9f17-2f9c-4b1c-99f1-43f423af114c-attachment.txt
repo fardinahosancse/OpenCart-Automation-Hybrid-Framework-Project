@@ -1,0 +1,2 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:43 >Typing on Input: home_search_field_xpath,
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: home_search_button_xpath

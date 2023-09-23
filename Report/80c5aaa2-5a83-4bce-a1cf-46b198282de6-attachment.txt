@@ -1,3 +1,0 @@
-Test_registration_with_valid_data_Started------
--------Navigating To Rgistration Page---------
--------Filling Registration Form---------

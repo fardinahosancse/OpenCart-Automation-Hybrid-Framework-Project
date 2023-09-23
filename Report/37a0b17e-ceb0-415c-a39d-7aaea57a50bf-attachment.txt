@@ -1,5 +1,0 @@
-test_Login_leaving_password_Started------
-Page Title:  Your Store
--------Navigating To Login Page---------
--------Filling Login ---------
-My Account:  Account Login

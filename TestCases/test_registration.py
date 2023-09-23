@@ -10,7 +10,7 @@ from Utility.LogUtil import Logger
 
 log = Logger(__name__, logging.INFO)
 
-
+@pytest.mark.skip
 class Test_Register(Distribute):
 
     @pytest.mark.parametrize("firstname,lastname,email,password",

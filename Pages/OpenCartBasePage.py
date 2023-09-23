@@ -1,3 +1,4 @@
+from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.alert import Alert
 from Pages.BasePage import BaseFather
@@ -38,6 +39,8 @@ class OpenCart(BaseFather):
         AlertText =Alert.text
         return AlertText
 
+    def ScrollDown(self):
+        self.driver.find_element(By.TAG_NAME,"body").send_keys(Keys.END)
 
 
 

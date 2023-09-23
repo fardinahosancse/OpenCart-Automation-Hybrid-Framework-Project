@@ -1,3 +1,0 @@
-test_registration_with_no_input_Started------
--------Navigating To Rgistration Page---------
--------Filling Registration Form---------
