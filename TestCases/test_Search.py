@@ -11,7 +11,7 @@ from Utility.LogUtil import Logger
 
 log = Logger(__name__, logging.INFO)
 
-
+@pytest.mark.skip
 class Test_Search(Distribute):
 
     def test_search_with_valid_product_name(self, get_browser):

@@ -1,6 +1,7 @@
 import time
 
 from Pages.BasePage import BaseFather
+from Pages.CheckoutPage import CheckOut
 from Pages.OpenCart_Login import OpenCart_Login_Page
 from Pages.OpenCart_Register import OpenCart_Register_Page
 
@@ -14,6 +15,7 @@ class OpenCart_Home_Page(BaseFather):
         print("------------Search-----------")
         self.type_on("home_search_field_xpath", data)
         self.click("home_search_button_xpath")
+
 
     def get_status_search_valid(self):
         text = self.get_text_from_element("home_search_product_title_xpath")

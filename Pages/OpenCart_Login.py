@@ -15,6 +15,9 @@ class OpenCart_Login_Page(BaseFather):
         self.type_on("log_password_xpath",password)
         self.click("log_login_xpath")
         time.sleep(3)
+        return  self
+    def go_to_home(self):
+        self.click("go_to_home_xpath")
 
 
 
