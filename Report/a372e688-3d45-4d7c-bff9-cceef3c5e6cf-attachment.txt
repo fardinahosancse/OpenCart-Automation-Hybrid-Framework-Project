@@ -1,0 +1,7 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: my_account_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: do_Register_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: reg_first_name_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: reg_last_name_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: reg_email_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: reg_password_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: reg_continue_xpath

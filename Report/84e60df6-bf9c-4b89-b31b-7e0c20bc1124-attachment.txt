@@ -1,0 +1,5 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: my_account_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: do_Login_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: log_email_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: log_password_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: log_login_xpath

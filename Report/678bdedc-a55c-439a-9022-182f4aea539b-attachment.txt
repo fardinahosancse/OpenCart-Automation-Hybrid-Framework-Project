@@ -1,0 +1,30 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: my_account_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: do_Login_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: log_email_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: log_password_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: log_login_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: go_to_home_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: home_search_field_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: home_search_button_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_iphone_product_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_iphone_add_cart_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_view_cart_item_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_go_to_shopping_cart_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_Shipping_dropdown_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:66 >Selecting : chk_drop_country_xpath,18
+[32mINFO    [0m Pages.BasePage:BasePage.py:66 >Selecting : chk_drop_city_xpath,324
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: chk_drop_postcde_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_drop_get_qoute_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_shipping_flat_rate_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_apply_shipping_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_Shipping_dropdown_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_go_to_checkout_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_selection_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:66 >Selecting : chk_shipping_selection_xpath,2
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_shipping_method_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_shipping_method_continue_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_payment_method_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_payment_method_input_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_payment_method_input_continue_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:48 Typed on the element with XPath: chk_comment_order_xpath
+[32mINFO    [0m Pages.BasePage:BasePage.py:30 Clicked on the element with XPath: chk_order_confirm_xpath

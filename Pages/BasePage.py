@@ -34,13 +34,31 @@ class BaseFather:
         else:
             log.logger.warning(f"Invalid syntax: {syntax}")
 
-
-
-
-    def type_on(self,syntex,syntex_value):
+    def type_on(self, syntex,syntex_value):
         if str(syntex).endswith("_xpath"):
-            self.driver.find_element(By.XPATH,conf.readConfig("locatorsData",syntex)).send_keys(syntex_value)
-        log.logger.info(">Typing on Input: " + str(syntex) + "," +str(syntex_value))
+            try:
+                # Create a WebDriverWait instance
+                wait = WebDriverWait(self.driver, 10)  # Adjust the timeout as needed
+
+                # Use WebDriverWait to wait for the element to be typeable
+                element = wait.until(EC.element_to_be_clickable((By.XPATH, conf.readConfig("locatorsData", syntex))))
+
+                # Click the element
+                element.send_keys(syntex_value)
+                log.logger.info("Typed on the element with XPath: " + syntex)
+
+            except Exception as e:
+                log.logger.error(f"Error Typing on element with XPath {syntex}: {str(e)}")
+        else:
+            log.logger.warning(f"Invalid syntax: {syntex}")
+
+
+
+
+    # def type_on(self,syntex,syntex_value):
+    #     if str(syntex).endswith("_xpath"):
+    #         self.driver.find_element(By.XPATH,conf.readConfig("locatorsData",syntex)).send_keys(syntex_value)
+    #     log.logger.info(">Typing on Input: " + str(syntex) + "," +str(syntex_value))
 
     def select(self,syntex,selection_value):
         if str(syntex).endswith("_xpath"):

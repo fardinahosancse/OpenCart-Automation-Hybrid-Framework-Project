@@ -1,0 +1,3 @@
+test_registration_leaving_privacy_agreement_toggle_Started------
+-------Navigating To Rgistration Page---------
+-------Filling Registration Form---------

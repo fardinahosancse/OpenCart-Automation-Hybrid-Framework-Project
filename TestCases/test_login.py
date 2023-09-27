@@ -13,7 +13,7 @@ from Utility.LogUtil import Logger
 log = Logger(__name__, logging.INFO)
 
 
-@pytest.mark.skip
+
 class Test_Login(Distribute):
 
     @pytest.mark.parametrize("email,password", dataProvider.get_data("Login-valid", "../Excel/Registration.xlsx"))
@@ -107,6 +107,7 @@ class Test_Login(Distribute):
             print("My Account: ", Login_success_title)
             Expected = "Account Login"
             assert Login_success_title == Expected, f"Unexpected Login Occurs::{Login_success_title}"
+
 
     def test_Login_Using_no_data(self, get_browser):
         driver = get_browser
